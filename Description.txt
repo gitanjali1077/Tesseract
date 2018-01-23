@@ -1,0 +1,13 @@
+
+                                               How to use?
+
+In the upload.php file at { target_dir } mention the directory to upload images.
+And in the { exec } command mention the same path of  { target_dir } along with the path where you want to create the output file.
+
+After that run image_to_text.php and upload your image.
+
+
+Conditions:
+
+To extract text from the file name of the image should be 'image' .
+Always the input and output file will have the same name so it wont be wasting much space as if required the file can be saved manually otherwise overrided.
